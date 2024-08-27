@@ -11,4 +11,4 @@ Uma das principais vantagens da utilização de contêineres é a alta performas
 * **Instalação Windows:**  https://docs.docker.com/desktop/install/windows-install/
 * **Instalação Linux:** https://docs.docker.com/desktop/install/linux-install/
 
-* **Id da extensão do Docker para o VsCode:** ms-azuretools.vscode-docker
+* **Id da extensão do Docker para o VsCode:** ms-azuretools.vscode-dockers
