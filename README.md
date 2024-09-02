@@ -12,3 +12,9 @@ Uma das principais vantagens da utilização de contêineres é a alta performas
 * **Instalação Linux:** https://docs.docker.com/desktop/install/linux-install/
 
 * **Id da extensão do Docker para o VsCode:** ms-azuretools.vscode-dockers
+
+
+# Rodando nosso primeiro contêiner
+
+Para iniciarmos iremos rodar o contêiner
+docker pull {nome do pacote}
